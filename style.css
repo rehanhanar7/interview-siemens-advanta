@@ -1,0 +1,11 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+.squarebox {
+  display: table-cell;
+  height: 10vh;
+  width: 10vh;
+  background-color: aqua;
+}
